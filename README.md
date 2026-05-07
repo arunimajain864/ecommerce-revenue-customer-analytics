@@ -73,6 +73,5 @@ Generated insights that supported:
 SQL/       → SQL analysis scripts
 Excel/     → CSV outputs & Excel dashboard
 PowerBI/   → Power BI dashboard files
-Images/    → Dashboard screenshots
 README.md  → Project documentation
 ```
